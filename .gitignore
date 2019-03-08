@@ -6,3 +6,6 @@ Lib/
 
 # Ignore folder named 'Scripts'
 Scripts/
+
+# Ignore file named 'pyvenv.cfg'
+pyvenv.cfg
