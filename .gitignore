@@ -9,3 +9,6 @@ Scripts/
 
 # Ignore file named 'pyvenv.cfg'
 pyvenv.cfg
+
+# Ignore file named 'pip-selfcheck.json'
+pip-selfcheck.json
