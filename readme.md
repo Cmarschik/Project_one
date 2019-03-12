@@ -16,4 +16,8 @@ my standard) so I am sure this will act not as a brilliant work, but rather as a
 
 ## What are the requirements to run this project? 
 This project uses postgreSQL 9.5, pgadmin3, and python3.6. All required
-libraries are listed in the "requirements.txt" file. 
+libraries are listed in the "requirements.txt" file.
+
+### Why doesn't this work for the reader?
+Simply put, even when complete, pieces will be missing. For example, a CONSUMER KEY & CONSUMER SECRET are required to use this. Similar 'problems' occur when 
+trying to access my private server through postgreSQL. Once complete, all of my important code should be up and readable.
