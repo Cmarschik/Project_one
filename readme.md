@@ -2,7 +2,7 @@
 
 ## What is this project?
 This project is my first real attempt at a program which integrates python 
-using libraries such as OAuth, Psycopg2, Flask, and more to retrieve Facebook 
+using libraries such as OAuth, Psycopg2, Flask, and more to retrieve Twitter 
 post information(logged in under a particular user), and store said user in 
 postgreSQL.
 
