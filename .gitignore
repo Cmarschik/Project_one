@@ -12,3 +12,6 @@ pyvenv.cfg
 
 # Ignore file named 'pip-selfcheck.json'
 pip-selfcheck.json
+
+# Ignore file named 'consumer_keys.py'
+consumer_keys.py
