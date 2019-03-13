@@ -3,11 +3,12 @@ from flask import Flask, render_template, session, redirect, request, url_for, g
 from twitter_utils import get_request_token, get_oauth_verifier_url, get_access_token
 from user import User
 from database import Database
+from consumer_keys import SQL_password
 
 app = Flask(__name__)
 app.secret_key = '1234'
 
-Database.initialise(host='localhost', database='learning', user='postgres', password='CpSQLM')
+Database.initialise(user='postgres', password=SQL_password, host='localhost', database='project_one_twitter')
 
 
 @app.before_request
@@ -18,7 +19,7 @@ def load_user():
 
 @app.route('/')
 def homepage():
-    return render_template('home.html')
+    return render_template('index.html')
 
 
 @app.route('/login/twitter')
