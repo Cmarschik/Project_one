@@ -1,8 +1,9 @@
 from user import User
 from database import Database
 from twitter_utils import get_request_token, get_oauth_verifier, get_access_token
+from consumer_keys import SQL_password
 
-Database.initialise(user='postgres', password='1234', host='localhost', database='learning')
+Database.initialise(user='postgres', password=SQL_password, host='localhost', database='project_one_twitter')
 
 user_screen_name = input("Enter your e-mail address: ")
 
