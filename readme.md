@@ -22,5 +22,5 @@ Simply put pieces are missing. For example, a CONSUMER KEY & CONSUMER SECRET are
 functional. The point of this project is not to present a beautifully working app, but rather to give insight into my knowledge of python and associated libraries. All of my important code should be up and readable.
 
 ### This code looks familiar?
-I had heavy influence from an online class I took. Although this is not neccessarily the original code presented, in my process of making the same app work the same way, my code differed little(not to mention I went back to reference it quite heavily). The course can be found at the following URL: https://www.udemy.com/the-complete-python-postgresql-developer-course/ 
+I had heavy influence from an online class I took. Although this is not neccessarily the original code presented, in my process of making the same app work the same way, my code differed little(not to mention I went back to reference it quite heavily). The course can be found here: The Complete Python & PostgreSQL Developer Course 
 
