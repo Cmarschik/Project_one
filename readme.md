@@ -20,4 +20,5 @@ libraries are listed in the "requirements.txt" file.
 
 ### Why doesn't this work for the reader?
 Simply put, even when complete, pieces will be missing. For example, a CONSUMER KEY & CONSUMER SECRET are required to use this. Similar 'problems' occur when 
-trying to access my private server through postgreSQL. Once complete, all of my important code should be up and readable.
+trying to access my private server through postgreSQL. Also, this project was originally set to use Facebook API, but I changed my mind, so the naming, and really, pathing may not be 
+functional. The point of this project is not to present a beautifully working app, but rather to give insight into my knowledge of python and associated libraries. Once complete, all of my important code should be up and readable.
