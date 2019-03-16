@@ -7,7 +7,7 @@ post information(logged in under a particular user), and store said user in
 postgreSQL.
 
 ## Will this be posted anywhere for easier access?
-**Yes!** A link to this directory is hyperlinked on my personal domain which is hosting my portfolio: www.coltonmarschik.com
+**Yes!** This directory is hyperlinked on my portfolio; it is being hosted here: www.coltonmarschik.com
 
 ## Do I think this code is good?
 I don't know. This, as stated above, is my first attempt at a major project(by 
